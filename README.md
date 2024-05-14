@@ -1,4 +1,5 @@
 **INTRODUCTION**
+
 As a Data Analyst at "Education for All," I was tasked by the Head of Fundraising to leverage donation data to enhance insights into donor behavior and improve donation rates. My objectives were clearly defined: increase the number of donors, boost the frequency of their donations, and elevate the total value of donations. This analysis was crucial for the upcoming fundraising strategy meeting where strategies for the next year would be shaped based on my findings.
 
 **TASK/DATA UNDERSTANDING**
